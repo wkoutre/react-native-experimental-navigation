@@ -11,8 +11,8 @@
  */
 'use strict';
 
+import PropTypes from 'prop-types';
 var React = require('react');
-const PropTypes = require('prop-types');
 var NavigationRootContainer = require('./NavigationRootContainer');
 
 function createNavigationContainer(

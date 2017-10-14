@@ -27,8 +27,8 @@
  */
 'use strict';
 
+import PropTypes from 'prop-types';
 const React = require('react');
-const PropTypes = require('prop-types');
 const ReactNative = require('react-native');
 
 const {
